@@ -1,6 +1,6 @@
 # Mintlify Website Clone
 
-### [Live Demo Link](https://cursor-clone-tan.vercel.app/)
+### [Live Demo Link](https://mintlify-clone-psi.vercel.app/)
 
 ---
 

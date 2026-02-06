@@ -25,5 +25,5 @@ I have successfully implemented all **11 required sections**:
 - **Layout:** Used **Flexbox** for simple alignments and **CSS Grid** for the complex card sections
 
 ## Final Output
+![Final Result](assets/screencapture-127-0-0-1-5500-mintlify-assignment-index-html-2026-02-06-16_42_37.png)
 
-The repository includes a detailed README with setup instructions and a screenshot of the final output.
